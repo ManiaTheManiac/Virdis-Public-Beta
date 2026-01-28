@@ -1,13 +1,13 @@
-This is a real authorized leak, do not try to harrass anyone over this,
-I feel like I may regret this in the future but whatever
-Heres some random wip shit
+This is the first of the characters included in the character pack Unique Freaks!
+I feel like I may regret this in the future but whatever, feel free to host this as long as its not edited (without my permission,) please dont steal these sprites and call it your own... thats a jerkhead stinkypoopoo head move.
 
-Changes to be implimented
-Already added features
+Since this is in open beta this wall of text will be left here and list the planned features.
+
+**Already added features (may need tweaks)**
 Super theme (Credits To NokNox8413)
 Time Stone Graphic (Credits To Zxohy)
 
-Planned Features/Tweaks
+**Planned Features/Tweaks**
 Fix super transformation mid areotide
 
 Areotide is much stronger or weaker than it should be depending on scale
@@ -48,17 +48,19 @@ Make feathers auto despawn after 5 seconds to disable them being stuck in goop a
 
 (make rebound less of a nussance and not occur after state changes and crap, maybe bounce like mighty from sonic mania with the control lock?) 
 
-BATTLE planned features 
-Midair
-Swirl Stun
+
+**BATTLE planned features **
+
+**Midair**
+**Swirl Stun**
 Cost 10 Rings
 CD 2 Seconds
 Virdis will have a short windup and flap his wings (just reuse running) and release 3 projectiles with tumbling similar to vectors fully charged BM move that will cause contact damage with a wall or collision (Akin to mightys megaton)
 
 "Final draft" for air bm move
 
-Grounded
-Turbulent Trap
+**Grounded**
+**Turbulent Trap**
 Cost 35 Rings
 CD 9 Seconds
 Virdis will make a whirlwind animation around himself and make a shield with the pros of a arma and a whirlwind shield. (When used it will cause hard tumbling) and has a bit more of a startup than an average arma and flings Virdis upwards in a nonfree state to allow counter/punishment for using it in a bad placement.
