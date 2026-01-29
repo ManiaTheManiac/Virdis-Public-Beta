@@ -1,0 +1,8 @@
+addHook("MusicChange", function(oldname, newname)
+    if consoleplayer
+        if skins[consoleplayer.skin].name == "virdis" 
+        and newname == "_super"
+            return "VIRSUP"
+        end
+    end
+end)
