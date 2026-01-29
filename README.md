@@ -44,8 +44,6 @@ Super form is called Chrono in the emerald screen
 
 Chrono form can fly like in ERZ (egg reverie) (spin to descend, jump to ascend, press both at the same time to boost forward)  Hitting a pit or a instakill Virdis will hold out the timestone (Ill make the sprites for dis), warp to the nearest safe spot (can be a checkpoint) and have a twenty ring deduction. Air vault will propel Virdis forwards instead of backwards and have the feathers home in on badnicks (Akin to the terraprisma from terraria, feel free to use rainbow trails thats made of the feather sprites)
 
-Make feathers auto despawn after 5 seconds to disable them being stuck in goop and being lag machines
-
 (make rebound less of a nussance and not occur after state changes and crap, maybe bounce like mighty from sonic mania with the control lock?) 
 
 
