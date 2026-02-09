@@ -1,7 +1,7 @@
 This is the first of the characters included in the character pack Unique Freaks!
 I feel like I may regret this in the future but whatever, feel free to host this as long as its not edited (without my permission,) please dont steal these sprites and call it your own... thats a jerkhead stinkypoopoo head move.
 
-Since this is in open beta this wall of text will be left here and list the planned features.
+Since this is in open beta this wall of text will be left here and list the planned features. (the beta is planned to close, please do not spread continued access to Virdis builds after 3/1/26)
 
 **Already added features (may need tweaks)**
 Super theme (Credits To NokNox8413)
