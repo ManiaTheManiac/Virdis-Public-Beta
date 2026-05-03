@@ -1,4 +1,4 @@
-Virdis 0.5.5 soon (0.5.4 got eaten in development hell)
+Virdis 0.5.4 is out! (has a few quirks but eh)
 I feel like I may regret this in the future but whatever, feel free to host this as long as its not edited (without my permission,) please dont steal these sprites and call it your own... thats a jerkhead stinkypoopoo head move.
 
 Since this is in open beta this wall of text will be left here and list the planned features. Feel free to host this (dm on discord first Mania_the_Maniac but I will likely say yes)
