@@ -5,6 +5,7 @@ Since this is in open beta this wall of text will be left here and list the plan
 Wall of fles- text trust
 **Already added features (may need tweaks)**
 Super theme (Credits To NokNox8413)
+4M (Metakimi) Ability and death sprite code.
 
 **Planned Features/Tweaks**
 Fix super transformation mid areotide
